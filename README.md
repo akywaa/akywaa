@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 <table>
   <tr>
@@ -65,13 +65,13 @@
   </tr>
 </table>
 
-> 🚧 **Currently working on:**
+ **Currently working on:**
 > - **WorldLineDB** - a high-throughput bitemporal database engine supporting transaction-time and valid-time interval indexing.
 > - **AkwaFlow** - a node-based visual AI pipeline builder & execution runtime.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
