@@ -85,15 +85,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akywaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="akywaa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akywaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="center">
