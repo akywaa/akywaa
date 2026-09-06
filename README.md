@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="akywaa banner" width="100%">
+  <img src="header.png" alt="akywaa banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm akywaa</h1>
@@ -66,8 +66,8 @@
 </table>
 
 > 🚧 **Currently working on:**
-> - **WorldLineDB** — a high-throughput bitemporal database engine supporting transaction-time and valid-time interval indexing.
-> - **AkwaFlow** — a node-based visual AI pipeline builder & execution runtime.
+> - **WorldLineDB** - a high-throughput bitemporal database engine supporting transaction-time and valid-time interval indexing.
+> - **AkwaFlow** - a node-based visual AI pipeline builder & execution runtime.
 
 ---
 
