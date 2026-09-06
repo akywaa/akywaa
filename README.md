@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="akywaa banner" width="100%">
+  <img src="header-v1.png" alt="akywaa banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm akywaa</h1>
