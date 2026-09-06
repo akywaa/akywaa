@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 💻 Passionate about **storage internals**, database engines (LSM-trees, MVCC, Write-Ahead Logs) and high-performance backend architecture.
 - 🛠️ Crafting native desktop utilities with **C++** and native **Win32 API**.
