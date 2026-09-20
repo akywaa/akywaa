@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="" alt="akywaa banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm akywaa</h1>
 <p align="center">
   <b>Systems & Backend Developer | Building Storage Engines & Low-Level Tooling</b>
