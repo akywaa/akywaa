@@ -14,10 +14,10 @@
 
 ###  About Me
 
-- 💻 Passionate about **storage internals**, database engines (LSM-trees, MVCC, Write-Ahead Logs) and high-performance backend architecture.
-- 🛠️ Crafting native desktop utilities with **C++** and native **Win32 API**.
-- 🔬 Constantly diving deep into low-level primitives: skip-lists, lock-free structures, `io_uring`, and temporal indexing.
-- ⚡ Open to collaborations on databases, distributed systems, and systems programming.
+-  Passionate about **storage internals**, database engines (LSM-trees, MVCC, Write-Ahead Logs) and high-performance backend architecture.
+-  Crafting native desktop utilities with **C++** and native **Win32 API**.
+-  Constantly diving deep into low-level primitives: skip-lists, lock-free structures, `io_uring`, and temporal indexing.
+-  Open to collaborations on databases, distributed systems, and systems programming.
 
 ---
 
