@@ -1,29 +1,20 @@
-# akywaa
+## akywaa
 
-Systems & Backend Developer focused on storage internals, database engines, and low-level primitives.
+> Systems & Backend Developer • Storage Engines & Low-Level Tooling
 
----
+Exploring database internals, lock-free primitives, and kernel I/O interfaces.
 
-### Highlighted Project
+### Projects
 
-**[AkwaDB](https://github.com/akywaa/AkwaDB)** — Embedded and networked LSM-tree storage engine with RESP (Redis) protocol compatibility.
+* **[AkwaDB](https://github.com/akywaa/AkwaDB)**  
+  LSM-tree storage engine with RESP compatibility, WiscKey KV separation, MVCC (SSI), and Raft consensus. Written in Go with `io_uring` support.
 
-* **Engine:** WiscKey-style key/value separation (Value Log) with custom LSM compaction.
-* **Concurrency & Isolation:** MVCC Oracle with Serializable Snapshot Isolation (SSI).
-* **Internals:** Lock-free SkipList memtable, TinyLFU cache, and `io_uring` based asynchronous I/O.
-* **Distribution:** Master-Replica replication and Raft-based consensus.
-* **Stack:** Go, Linux I/O primitives.
+### Areas of Interest
 
----
-
-### Focus & Interests
-
-* **Core:** Storage Engines, Write-Ahead Logging (WAL), LSM-trees, B-trees.
-* **Systems:** Lock-free data structures, memory-mapped files, temporal indexing, `io_uring`.
-* **Languages:** Go, C++.
+* Storage engines (LSM, WAL, compaction strategies)
+* Concurrency primitives & lock-free architectures
+* Native systems programming (`Go`, `C++`, `Win32`, `Linux syscalls`)
 
 ---
 
-### Contacts
-
-[Telegram](https://t.me/acywa) · [Discord](https://discord.com/users/akyws) · [GitHub Repositories](https://github.com/akywaa?tab=repositories)
+[`Telegram`](https://t.me/acywa) · [`Discord`](https://discord.com/users/akyws)
