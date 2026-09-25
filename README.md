@@ -7,11 +7,11 @@ Exploring database internals, lock-free primitives, and kernel I/O interfaces.
 ### Projects
 
 * **[AkwaDB](https://github.com/akywaa/AkwaDB)**  
-  LSM-tree storage engine with RESP compatibility, WiscKey KV separation, MVCC (SSI), and Raft consensus. Written in Go with `io_uring` support.
+  Flash-optimized LSM-tree storage engine in pure Go (Zero-Cgo) with Redis (RESP) protocol compatibility. Features WiscKey KV separation, MVCC with Serializable Snapshot Isolation (SSI), Raft consensus, and AES-256 encryption at rest (TDE).
 
 ### Areas of Interest
 
-* Storage engines (LSM, WAL, compaction strategies)
+* Storage engines (LSM-trees, WAL, WiscKey separation, compaction strategies)
 * Concurrency primitives & lock-free architectures
 * Native systems programming (`Go`, `C++`, `Win32`, `Linux syscalls`)
 
